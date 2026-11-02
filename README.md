@@ -1,4 +1,4 @@
-# Entreegável 4
+# Entregável 4
 
 Implementações dos algoritmos pedidos em JavaScript, com testes unitários escritos em [Jest](https://jestjs.io/docs/getting-started).
 
