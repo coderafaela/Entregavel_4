@@ -1,6 +1,6 @@
-# Algoritmos Fundamentais
+# Entreegável 4
 
-Implementações de algoritmos fundamentais em JavaScript, com testes unitários escritos em [Jest](https://jestjs.io/docs/getting-started).
+Implementações dos algoritmos pedidos em JavaScript, com testes unitários escritos em [Jest](https://jestjs.io/docs/getting-started).
 
 ## Algoritmos
 
