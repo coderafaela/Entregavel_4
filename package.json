@@ -1,0 +1,11 @@
+{
+  "name": "algoritmos-fundamentais",
+  "version": "1.0.0",
+  "description": "Algoritmos fundamentais em JavaScript com testes unitários em Jest",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
