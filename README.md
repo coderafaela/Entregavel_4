@@ -71,6 +71,20 @@ npx jest --verbose
 
 Se aparecer `'npm' não é reconhecido`, o Node.js não está instalado. Baixe em [nodejs.org](https://nodejs.org/) e reabra o terminal.
 
+## Evidências
+
+### Execução de todos os testes (`npm test`)
+
+As 6 suites passaram (12 testes no total), cobrindo `quicksort`, `numeroprimo`, `contagem`, `somatorio`, `mdc` e `fibonacci`.
+
+[![Execução de todos os testes com npm test](https://drive.google.com/thumbnail?id=1amm83J5j0NvhoJ8GughafHY6F9bkngp-&sz=w1600)](https://drive.google.com/file/d/1amm83J5j0NvhoJ8GughafHY6F9bkngp-/view?usp=sharing)
+
+### Execução de um teste específico (`npx jest tests/fibonacci.test.js`)
+
+Execução isolada do teste de Fibonacci, com os 2 testes passando: os 10 primeiros números da sequência e os 2 primeiros (0 e 1).
+
+[![Execução do teste de Fibonacci com npx jest](https://drive.google.com/thumbnail?id=16YjaYvnBX2cdgGX5Lz0PRgm6v4x3pqpj&sz=w1600)](https://drive.google.com/file/d/16YjaYvnBX2cdgGX5Lz0PRgm6v4x3pqpj/view?usp=sharing)
+
 ## Tecnologias
 
 - JavaScript (Node.js)
